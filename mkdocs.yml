@@ -1,0 +1,7 @@
+site_name: My Docs
+
+nav:
+  - 简介: index.md
+  - 技术: 
+    - Python: tech/python.md
+    - WPF: tech/wpf.md
